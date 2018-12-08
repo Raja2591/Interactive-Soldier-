@@ -1,3 +1,3 @@
 # Interactive Soldier
 
-![] ("soldier.jpg")
+![]("soldier.jpg")
